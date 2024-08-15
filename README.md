@@ -1,9 +1,9 @@
-# Information Systems 
+# Data Analyst
 
 #### Technical Skills: Python, SQL, PowerBI, Tableau, Microsoft Office, Project Managment
 
 ## Education 
-- B.S., Management Information Systems | Iowa State University (_December 2024_)
+- B.S., Management Information Systems | Iowa State University - Ivy College of Business, Ames, IA (_December 2024_)
 
 ## Work Expereince 
 **Co-Founder @ Sole HQ LLC | Ames,IA (_November 2023 - Present_)**
