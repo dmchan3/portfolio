@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, PowerBI, Tableau, Microsoft Office, Project Managment
+#### Technical Skills: Python, SQL, R, PowerBI, Tableau, Microsoft Office, AI, Machine Learning Project Managment
 
 ## Education 
 - B.S., Management Information Systems | Iowa State University - Ivy College of Business, Ames, IA (_December 2024_)
@@ -11,7 +11,7 @@
 - Under my leadership, we've rapidly grown, demonstrating my ability to boost sales and effectively run a thriving sneaker retail store.
 - Built relationships with other sneaker businesses to stregthen collaborative relationships and maximize interactions.
 
-**Project Managment Intern @ F&G | Des Moines, IA (_May 2024 - August 2024_)**
+**Operations Implemenation Intern Intern @ F&G | Des Moines, IA (_May 2024 - August 2024_)**
 - Developed communication plan as requested and delivered to key stakeholders in cocise and easy to understand reports reflecting knowledge of data, key accomplishments, project blockers and timelines.
 - Facilitated communication between stakeholders, vendors, and team members, foatering a collaborative work environment.
 - Demonstrated the knowledge of project flow like scope, delivery requirements and status.
@@ -23,5 +23,7 @@
 - Performed work according to the data quality and production standards as defined in policies and procedures.
 - Participated in projects, as assigned to assit the management team with improving automation, efficiency, effectiveness of solutions, and training.
 
-## Projects
+**Interests** 
+- AI & Machine Learning, Stock Market, Real Estate, BodyBuilding, Powerlifting, Sneakers, Entrepreneurship, Basketball, Football
+
 
