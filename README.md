@@ -17,7 +17,7 @@
 - Demonstrated the knowledge of project flow like scope, delivery requirements and status.
 - Demonstrated the knowledge of key components and responsibilities of a project manager by understanding, project risks, issue management and financial impact.
 
-**Data Analyst Intern @ Kingland Systems | Ames,IA (_May 2023 - August 2023_)**
+**Data Research Analyst Intern @ Kingland Systems | Ames,IA (_May 2023 - August 2023_)**
 - Conducted research and complete data entry on corporations from all around the world, using defined procedures to identify relationships and provide validated and credible data.
 - Continued to enhance data quality over time on new and existing data through continual data clean-up efforts.
 - Performed work according to the data quality and production standards as defined in policies and procedures.
