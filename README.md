@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, R, PowerBI, Tableau, Microsoft Office, AI, Machine Learning Project Managment
+#### Technical Skills: Python, SQL, R, PowerBI, Tableau, Microsoft Office, AI, Machine, Learning Project Managment
 
 ## Education 
 - B.S., Management Information Systems | Iowa State University - Ivy College of Business, Ames, IA (_December 2024_)
