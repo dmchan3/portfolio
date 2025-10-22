@@ -18,10 +18,9 @@
 - Participated in projects, as assigned to assit the management team with improving automation, efficiency, effectiveness of solutions, and training.
 
 **Skills** 
-Technical: R, SQL, Python, Power BI, Tableau, Excel
-Methodologies/Requirements Gathering: Analysis, Agile, Scrum, Waterfall, Requirements Analysis, Workflow Design, 
-Business Process Modeling, IT Project Management, Technical Documentation, Process Improvement
-Project Management: Jira, WorkOtter 
+- Technical: R, SQL, Python, Power BI, Tableau, Excel
+- Methodologies/Requirements Gathering: Analysis, Agile, Scrum, Waterfall, Requirements Analysis, Workflow Design, Business Process Modeling, IT Project Management, Technical Documentation, Process Improvement
+- Project Management: Jira, WorkOtter 
 
 **Interests** 
 - AI & Machine Learning, Stock Market, Real Estate, BodyBuilding, Powerlifting, Sneakers, Entrepreneurship, NBA, NFL
