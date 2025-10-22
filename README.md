@@ -11,7 +11,7 @@
 - Streamlined reporting and documentation processes, making it easier for stakeholders to track project progress and key outcomes. 
 - Enhanced data accuracy and workflow efficiency, reducing manual checks and improving turnaround time by over 20% and ensuring timely project delivery. 
 
-**Data Research Analyst Intern @ Kingland Systems | Ames,IA (_May 2023 - August 2023_)**
+**Data Research Analyst Intern @ Kingland Systems | Ames, IA (_May 2023 - August 2023_)**
 - Conducted research and complete data entry on corporations from all around the world, using defined procedures to identify relationships and provide validated and credible data.
 - Continued to enhance data quality over time on new and existing data through continual data clean-up efforts.
 - Performed work according to the data quality and production standards as defined in policies and procedures.
